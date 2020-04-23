@@ -1,17 +1,17 @@
 itemGroup.dawnoftime=Dawn of Time : Builder Edition
 
-item.dawnoftime.clothes.name=�����
-item.dawnoftime.builder_wand.name=����� ��� ������
-tile.dawnoftime.building_workbench.name=������ �������� DoT
-tile.dawnoftime.fake_air.name=�������� �����
-tile.dawnoftime.oak_planks_edge.name=���� ����� ����������
-tile.dawnoftime.path_cobbled.name=�������� ������
-tile.dawnoftime.path_dirt.name=������������
-tile.dawnoftime.path_gravel.name=������������
-tile.dawnoftime.path_ochre_tiles.name=Mo������ Ochre
-tile.dawnoftime.path_sandstone.name=�������� ������� �����
-tile.dawnoftime.path_stepping_stones.name=�������� ������
-tile.dawnoftime.slab_path.cobbled.name=�����������
+item.dawnoftime.clothes.name=Clothes
+item.dawnoftime.builder_wand.name=Builder Wand
+tile.dawnoftime.building_workbench.name=Builder's Workbench
+tile.dawnoftime.fake_air.name=Fake Air
+tile.dawnoftime.oak_planks_edge.name=Oak Planks Edge
+tile.dawnoftime.path_cobbled.name=Cobbled Path
+tile.dawnoftime.path_dirt.name=Dirt Path
+tile.dawnoftime.path_gravel.Gravel Path
+tile.dawnoftime.path_ochre_tiles.name=Ochre Tiles Path
+tile.dawnoftime.path_sandstone.name=Sandstone Path
+tile.dawnoftime.path_stepping_stones.name=Stepping Stone Path
+tile.dawnoftime.slab_path.cobbled.name=Cobbled Path Slab
 tile.dawnoftime.slab_path.dirt.name=������� ������������
 tile.dawnoftime.slab_path.gravel.name=����������� M������� ��������
 tile.dawnoftime.slab_path.ochre_tiles.name=����������� �������� Ochre
